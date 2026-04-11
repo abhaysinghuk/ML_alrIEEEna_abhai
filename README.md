@@ -2,7 +2,7 @@
 
 # IEEE ML Challenge – Device Fault Detection
 
-## Overview
+## Overvieww
 
 This project was developed as part of the **IEEE SB GEHU ML Challenge Qualifiers**.
 The objective of this challenge is to build a **machine learning model that detects faulty devices** using sensor-based features.
